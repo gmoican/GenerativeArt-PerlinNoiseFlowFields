@@ -4,11 +4,9 @@ This is a personal attempt to try a generative art method to create an album cov
 
 <h3>Theory and resources</h3>
 
-This video is a great explanation of what flow fields are and how to use them to create art:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlU3GskkcUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[This video](https://www.youtube.com/embed/JlU3GskkcUw) is a great explanation of what flow fields are and how to use them to create art.
 
-My code started out from this __The Coding Train__ video, but I've made some modifications and performance improvements:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BjoM9oKOAKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+My code started out from [this __The Coding Train__ video](https://www.youtube.com/embed/BjoM9oKOAKY), but I've made some modifications and performance improvements.
 
 <h3>Let's make an album cover!</h3>
 
@@ -35,4 +33,5 @@ I also want to show this one that appeared when the code wasn't ready yet:
 The credit of this code should go to __The Coding Train__.
 
 However, if you want to show support to me, you can listen to [my music](https://linktr.ee/westy_music) and tell me what you think of it.
+
 Bye!
